@@ -1,16 +1,10 @@
 # Alura Python Course
 
-<<<<<<< HEAD
-
 ![CERTIFIED JOAO VITOR SOUZA GERMANO](resources/certified.PNG 'CERTIFIED JOAO VITOR SOUZA GERMANO')
-
-=======
-![CERTIFIED JOAO VITOR SOUZA GERMANO](resources/certified.PNG 'CERTIFIED JOAO VITOR SOUZA GERMANO')
->>>>>>> 7dfda82 (edit readme)
 
 ### Course
 
-- [x] PYTHON 3 PARTE 1: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM [Certificado](https://cursos.alura.com.br/certificate/joaovitorsgermano/python-3-introducao-a-nova-versao-da-linguagem)
+- [x] PYTHON 3 PARTE 1: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM [CERTIFIED](https://cursos.alura.com.br/certificate/joaovitorsgermano/python-3-introducao-a-nova-versao-da-linguagem)
 
 ## Guess Game
 
