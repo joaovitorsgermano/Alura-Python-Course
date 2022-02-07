@@ -6,6 +6,8 @@
 
 - [x] PYTHON 3 PARTE 1: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM [CERTIFIED](https://cursos.alura.com.br/certificate/joaovitorsgermano/python-3-introducao-a-nova-versao-da-linguagem)
 
+- [x] PYTHON 3 PARTE 2: AVANÇANDO NA LINGUAGEM [CERTIFIED](https://cursos.alura.com.br/certificate/joaovitorsgermano/python-3-avancando-na-linguagem)
+
 ## Guess Game
 
 ### Tecnologies
